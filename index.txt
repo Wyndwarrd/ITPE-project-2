@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Earlo Falsis Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Earlo Falsis - Personal Portfolio</h1>
+
+<img src="images/profile.jpg" alt="My Photo" width="200">
+
+<h2>Introduction</h2>
+<p>
+Hello! My name is Earlo Falsis. I am a Marine Engineering student who dreams of becoming a seaman someday. 
+I am hardworking, responsible, and always willing to learn new skills.
+</p>
+
+<h2>Personal Information</h2>
+<ul>
+<li>Full Name: Earlo Falsis</li>
+<li>Age: 16</li>
+<li>Address: Dumalag, Capiz</li>
+<li>Course: Marine Engineering</li>
+<li>Section: ______</li>
+<li>Birthday: ______</li>
+</ul>
+
+<h2>Hobbies / Skills</h2>
+<ul>
+<li>Playing Mobile Legends</li>
+<li>Watching YouTube</li>
+<li>Learning about ships</li>
+<li>Basic HTML coding</li>
+</ul>
+
+<h2>My Favorites Table</h2>
+
+<table border="1">
+<tr>
+<th>Category</th>
+<th>Favorite</th>
+</tr>
+
+<tr>
+<td>Food</td>
+<td>Chicken</td>
+</tr>
+
+<tr>
+<td>Game</td>
+<td>Mobile Legends</td>
+</tr>
+
+<tr>
+<td>Dream Job</td>
+<td>Seaman</td>
+</tr>
+
+</table>
+
+<h2>My Links</h2>
+<p>
+<a href="https://facebook.com">Facebook</a><br>
+<a href="https://youtube.com">YouTube</a>
+</p>
+
+<div class="goal">
+<h2>My Goal</h2>
+<p>
+My goal is to finish my Marine Engineering course and become a successful seaman 
+so I can support my family and travel around the world.
+</p>
+</div>
+
+</body>
+			</html>
